@@ -90,7 +90,7 @@ This is a minimalist eCommerce website developed as a project by **Prashant Daha
 
 - Open a browser and navigate to `http://localhost/footwear_ecommerce/`.
 - Register a user via `register.php` or log in with an existing user.
-- For admin access, use `http://localhost/footwear_ecommerce/login.php` with Username: `prashant`, Password: `123`, and check “Login as Admin.”
+- For admin access, use `http://localhost/footwear_ecommerce/login.php` with Username: `admin`, Password: `123`, and check “Login as Admin.”
 - Test eSewa payment:
   - Add products to the cart, proceed to checkout, and select “eSewa.”
   - You’ll be redirected to the eSewa test payment page.

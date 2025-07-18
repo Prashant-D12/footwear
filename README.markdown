@@ -73,7 +73,7 @@ This is a minimalist eCommerce website developed as a project by **Prashant Daha
   SOURCE C:/xampp/htdocs/footwear_ecommerce/database.sql;
   ```
 - The database includes:
-  - `admin`: Admin credentials (`rochak`/`123`).
+  - `admin`: Admin credentials (`admin`/`123`).
   - `user`: User accounts with hashed passwords.
   - `product`: Sample footwear products with images.
   - `order`: Stores order details (`total_amount`, `payment_method`).

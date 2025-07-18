@@ -176,8 +176,19 @@ footwear_ecommerce/
 - 
 ## screenshot
 
-Register
+## Register
+
+
   <img width="658" height="468" alt="Image" src="https://github.com/user-attachments/assets/6db2fb40-3468-4095-8c9f-1dfce249cc14" />
+
+## Login
+
+<img width="631" height="442" alt="Image" src="https://github.com/user-attachments/assets/0b4ba378-819c-4133-acf6-715485cd02cf" />
+
+## Home
+
+<img width="1586" height="771" alt="Image" src="https://github.com/user-attachments/assets/21c10f5a-ff60-4d52-b15a-12dcf9c110c5" />
+
 
 ## Notes
 
